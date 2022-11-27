@@ -111,3 +111,8 @@
 - Langkah ke enam belas jika kita ingin menginputkan yang selain ada di menu di atas seperti "t,u,c,l,h,k" maka kemudian kita akan di minta untuk memilih menu yang tersedia
 
 ![gambar1](gambar/gambar26.png)
+
+# GAMBAR FLOWCHART PRAKTIKUM
+
+![gambar1](gambar/gambarflowchart.jpeg)
+

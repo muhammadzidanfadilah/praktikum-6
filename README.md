@@ -56,21 +56,21 @@
 
 - Langkah kedua kemudian kita akan membuat kondisi perulangan dan membuat sebuah keterangan untuk pilihan menu yang akan menjalankan program tersebut 
 
-![gambar1](gambar/gambar13.png)
-
 - Langkah ketiga membuat syntax untuk menambahkan data 
 
-![gambar1](gambar/gambar14.png)
+![gambar1](gambar/gambar13.png)
 
 - Langkah keempat ketika kita akan menginputkan data t maka akan muncul beberapa data,data  yang barusan kita inputan akan masuk ke dictionary,data yang di buat tadi dengan data nama 'keys' dan yang tersisa itu sebagai values
 
-![gambar1](gambar/gambar15.png)
+![gambar1](gambar/gambar14.png)
 
 - langkah kelima membuat syntax mengubah data
 
-![gambar1](gambar/gambar16.png)
+![gambar1](gambar/gambar15.png)
 
 - Langkah ke enam pada saat kita menginputkan data 'u' maka akan muncul mengubah keterangan untuk mengubah data tersebut dan kita akan diminta kembali menginputkan nama yang tadi mau di ubah datanya 'nama {} tidak di temukan' dimana {} untuk mengubah nama atau data yang kita mau
+
+![gambar1](gambar/gambar16.png)
 
 - Langkah ke tujuh membuat syntax menghapus data 
 
@@ -112,9 +112,6 @@
 
 ![gambar1](gambar/gambar26.png)
 
-# FLOWCHART PRAKTIKUM 6
+# FLOWCHART PRAKTIKUM
 
-![gambar1](gambar/gambar9.png)
-![gambar1](gambar/gambar9.png)
-![gambar1](gambar/gambar9.png)
 ![gambar1](gambar/gambar9.png)

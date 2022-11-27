@@ -1,6 +1,8 @@
 # PROSES / LANGKAH - LANGKAH PRAKTIKUM 6
 ## Membuat dictionary dari daftar kontak
 
+- Nama sebagai key dan menggunakan nomor sebagai value
+
 ![gambar1](gambar/gambar.png)
 
 

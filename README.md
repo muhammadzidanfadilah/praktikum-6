@@ -23,11 +23,11 @@
 
 - Menampilkan semua daftar nomor di atas
 
-![gambar1](gambar/gambar6.png)
+![gambar1](gambar/gambar30.png)
 
 - Untuk menampilkan tampilan daftar nama dan nomor
 
-![gambar1](gambar/gambar27.png)
+![gambar1](gambar/gambar31.png)
   
 - Menampilkan semua daftar nama dan nomor yang tertera di atas
 
